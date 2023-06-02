@@ -32,3 +32,19 @@
 - Raphael Siqueira Prince
 - Temístocles Altivo Schwartz
 - Thiago Fonsato Alves
+
+### wireframes na ferramenta Figma para as cinco primeiras histórias:
+1- Eu como vendedor gostaria de ter acesso a todos os produtos disponíveis na loja (e aos seus dados)para poder vendê-los aos meus clientes:
+![Descrição da imagem](1.jpeg)
+
+2- Eu como gerente gostaria de poder ter acesso à todos os meus funcionários, podendo gerenciar a criação, manutenção dos seus dados e poder desativá-los quando necessário
+![Descrição da imagem](Screenshot_116.png)
+
+3 - Como caixa gostaria de poder registrar todas as vendas passadas pelos clientes com precisão, para que ao final do dia todos os dados estajam batendo corretamente
+![Descrição da imagem](3.jpeg)
+
+4 - Gostaria de poder efetuar o cadastro dos clientes no sistema, para que as vendas possam ser vinculados ao seu cadastro
+![Descrição da imagem](Screenshot_114.png)
+
+5 - Eu como estoquista gostaria de poder registrar no sistema todas as entradas de produtos para poder disponibilizar a quantidade em estoque para os vendedores
+![Descrição da imagem](Screenshot_115.png)

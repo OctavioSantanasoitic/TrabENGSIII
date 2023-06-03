@@ -25,6 +25,8 @@ services:
       ME_CONFIG_MONGODB_URL: mongodb://root:example@mongo:27017/
     networks:
       - eng-project-network
+    depends_on:
+      - mongo
 
 networks:
   eng-project-network:

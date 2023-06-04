@@ -1,0 +1,19 @@
+version: "3.9"
+
+services:
+  eng_project_service:
+    build:
+      context: .
+    image: eng_project_image
+    container_name: eng_project_container
+    working_dir: /app
+    networks:
+      - eng-project-network
+    restart: unless-stopped
+    command: python app/start.py
+    volumes:
+      - .:/app
+
+networks:
+  eng-project-network:
+    driver: bridge

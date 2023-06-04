@@ -48,3 +48,16 @@
 
 5 - Eu como estoquista gostaria de poder registrar no sistema todas as entradas de produtos para poder disponibilizar a quantidade em estoque para os vendedores
 ![Descrição da imagem](Screenshot_115.png)
+
+### Descrição de classes de dominio
+
+| História                                                                                                                                                                 | Classe               |
+|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------|
+| Eu como vendedor gostaria de ter acesso a todos os produtos disponíveis na loja (e aos seus dados)para poder vendê-los aos meus clientes                                 | SalesmanListProducts |
+| Eu como gerente gostaria de poder ter acesso à todos os meus funcionários, podendo gerenciar a criação, manutenção dos seus dados e poder desativá-los quando necessário | AbleEmployee         |
+| Eu como gerente gostaria de poder ter acesso à todos os meus funcionários, podendo gerenciar a criação, manutenção dos seus dados e poder desativá-los quando necessário | DisableEmployee      |
+| Eu como gerente gostaria de poder ter acesso à todos os meus funcionários, podendo gerenciar a criação, manutenção dos seus dados e poder desativá-los quando necessário | ListEmployees        |
+| Eu como gerente gostaria de poder ter acesso à todos os meus funcionários, podendo gerenciar a criação, manutenção dos seus dados e poder desativá-los quando necessário | UpsertEmployee       |
+| Como caixa gostaria de poder registrar todas as vendas passadas pelos clientes com precisão, para que ao final do dia todos os dados estajam batendo corretamente        | RegisterSale         |
+| Gostaria de poder efetuar o cadastro dos clientes no sistema, para que as vendas possam ser vinculados ao seu cadastro                                                   | CreateClient         |
+| Eu como estoquista gostaria de poder registrar no sistema todas as entradas de produtos para poder disponibilizar a quantidade em estoque para os vendedores             | RegisterProducts     |

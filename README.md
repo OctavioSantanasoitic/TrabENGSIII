@@ -61,3 +61,7 @@
 | Como caixa gostaria de poder registrar todas as vendas passadas pelos clientes com precisão, para que ao final do dia todos os dados estajam batendo corretamente        | RegisterSale         |
 | Gostaria de poder efetuar o cadastro dos clientes no sistema, para que as vendas possam ser vinculados ao seu cadastro                                                   | CreateClient         |
 | Eu como estoquista gostaria de poder registrar no sistema todas as entradas de produtos para poder disponibilizar a quantidade em estoque para os vendedores             | RegisterProducts     |
+
+|<center>WireFrame 1<center>|<center>WireFrame 2<center>|<center>WireFrame 3<center>|<center>WireFrame 4<center>|<center>WireFrame 5<center>|
+|--|--|--|--|--|
+| Tabela de todos os produtos e preços | Quadro de gerenciamento de funcionários | Sistema de caixa com registro completo de vendas | Sistema de cadastro de clientes | Sistema logístico para controle de entrada e saída de produtos |
